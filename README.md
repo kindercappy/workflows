@@ -1,2 +1,2 @@
 #Workflows course
-This poraskldfnaskldnl;knfkdnf
+This project is an example of workflow management.
